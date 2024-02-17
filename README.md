@@ -31,7 +31,7 @@ Ensure the following software is installed on your local machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/Huaweitest.git
+   git clone https://github.com/Miltino/Huaweitest.git
    ```
 
 2. Navigate to the project directory:

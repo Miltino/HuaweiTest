@@ -96,9 +96,9 @@ To run the automated Selenium tests:
 ```
 .
 ├── node_modules        # Node.js modules
-├── configs             # configs assets
-├── controllers         # Express routes
-├── routes              # Automation tests using Selenium
+├── configs             # configs 
+├── controllers         # Express Controllers
+├── routes              # Express Routes
 ├── views               # Express views
 ├── .env                # Environment variables
 ├── index.js            # Express application entry point

@@ -19,8 +19,8 @@ app.use(bodyParser.json())
 app.use(session({
     resave: false,
     saveUninitialized: false,
-    secret: 't@1k0ch3ng',
-    name: 'secretName',
+    secret: 'hu@weit3st',
+    name: 'thisissecret',
     cookie: {
         sameSite: true,
         maxAge: 60000
